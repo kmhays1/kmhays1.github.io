@@ -1,5 +1,5 @@
 ---
-title: Background
+title: background
 ---
 
 # Background
